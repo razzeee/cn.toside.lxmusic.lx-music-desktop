@@ -21,6 +21,7 @@
   <screenshots>
     <screenshot type="default">
       <image type="source">https://raw.githubusercontent.com/lyswhut/lx-music-desktop/refs/tags/v2.11.0/doc/images/app.png</image>
+      <caption>Main Window</caption>
     </screenshot>
   </screenshots>
   <categories>
